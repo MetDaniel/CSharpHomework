@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfOrderDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderDetails>
+    <num>1996-12-10-012</num>
+    <cusName>韩梅梅</cusName>
+    <phoneNun>12345678910</phoneNun>
+    <goodName>香皂</goodName>
+    <price>200</price>
+  </OrderDetails>
+  <OrderDetails>
+    <num>1999-11-02-021</num>
+    <cusName>李雷</cusName>
+    <phoneNun>10987654321</phoneNun>
+    <goodName>肥皂</goodName>
+    <price>10001</price>
+  </OrderDetails>
+</ArrayOfOrderDetails>
